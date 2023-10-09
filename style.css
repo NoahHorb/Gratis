@@ -1,0 +1,14 @@
+.navbar, .navbar-nav, .nav-item, .nav-link{
+    height: 80px;
+    line-height: 64px;
+}
+
+.nav-item:hover, .dropdown-item:hover, .active > .nav-link {
+    background-color: #007bff;
+    color: white !important;
+}
+
+a.dropdown-item {
+    height: 40px;
+    line-height: 32px;
+}
